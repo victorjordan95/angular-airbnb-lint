@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "eslint"
+    }
+  },
+  "defaultProject": "eslint",
+  "cli": {
+    "analytics": false
+  }
 }
